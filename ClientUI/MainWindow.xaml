@@ -96,7 +96,7 @@
                     <Image Width="89" Height="83"
                        Source="Images/vector.png"
                            RenderOptions.BitmapScalingMode="Fant"/>
-                    <TextBlock Text="Vectr"
+                    <TextBlock Text="Portli"
                            Foreground="Gray"
                            FontSize="30"
                            FontWeight="Medium"
@@ -110,7 +110,7 @@
                            FontWeight="Medium"
                            VerticalAlignment="Center"
                            FontFamily="Fonts/#Dosis"/>
-                <TextBlock Text="Create."
+                <TextBlock Text="Port."
                            Foreground="white"
                            FontSize="20"
                            FontWeight="Medium"
@@ -133,7 +133,7 @@
             </StackPanel>
             <StackPanel Orientation="Horizontal"
                         Margin="0,15,0,0">
-                <Button Content="Start"
+                <Button Content="New"
                         Foreground="white"
                         FontSize="14"
                         FontWeight="Medium"
@@ -161,7 +161,7 @@
                         </ControlTemplate>
                     </Button.Template>
                 </Button>
-                <Button Content="Register"
+                <Button Content="Open"
                         Foreground="white"
                         FontSize="14"
                         FontWeight="Medium" 
