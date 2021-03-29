@@ -1,0 +1,15 @@
+C:\Projects\ClientUI\ClientUI\bin\Debug\ClientUI.exe.config
+C:\Projects\ClientUI\ClientUI\bin\Debug\ClientUI.exe
+C:\Projects\ClientUI\ClientUI\bin\Debug\ClientUI.pdb
+C:\Projects\ClientUI\ClientUI\obj\Debug\ClientUI.csprojAssemblyReference.cache
+C:\Projects\ClientUI\ClientUI\obj\Debug\MainWindow.g.cs
+C:\Projects\ClientUI\ClientUI\obj\Debug\App.g.cs
+C:\Projects\ClientUI\ClientUI\obj\Debug\ClientUI_MarkupCompile.cache
+C:\Projects\ClientUI\ClientUI\obj\Debug\ClientUI_MarkupCompile.lref
+C:\Projects\ClientUI\ClientUI\obj\Debug\MainWindow.baml
+C:\Projects\ClientUI\ClientUI\obj\Debug\ClientUI.g.resources
+C:\Projects\ClientUI\ClientUI\obj\Debug\ClientUI.Properties.Resources.resources
+C:\Projects\ClientUI\ClientUI\obj\Debug\ClientUI.csproj.GenerateResource.cache
+C:\Projects\ClientUI\ClientUI\obj\Debug\ClientUI.csproj.CoreCompileInputs.cache
+C:\Projects\ClientUI\ClientUI\obj\Debug\ClientUI.exe
+C:\Projects\ClientUI\ClientUI\obj\Debug\ClientUI.pdb
